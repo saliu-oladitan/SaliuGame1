@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GAME1</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <style>
+  #draggable { width: 150px; height: 50px; padding: 0.5em; border:thick; background-color:#00FF33}
+  #draggable1 { width: 150px; height: 50px; padding: 0.5em; border:thick; background-color:#660099}
+  #draggable2 { width: 150px; height: 50px; padding: 0.5em; border:thick; background-color:green;}
+  #draggable3 { width: 150px; height: 50px; padding: 0.5em; border:thick; background-color:pink;}
+  #draggable4 { width: 150px; height: 50px; padding: 0.5em; border:thick; background-color:yellow;}
+  #draggable5 { width: 150px; height: 50px; padding: 0.5em; border:thick; background-color:#FF0000;}
+
+  </style>
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#draggable" ).draggable();
+  } );
+  </script>  <script>
+  $( function() {
+    $( "#draggable1" ).draggable();
+  } );
+  </script>
+</head>
+<body>
+<h1 align="center"> <font color="#000066">SALIU'S GAME 1</font></h1>
+ <marquee> <h3><font color="#00CC00">INSTRUCTION: CHOOSE THE 2 DRAGGABLE BOXES WITHIN 3 ATTEMPTS</font></h3></marquee><BR><BR>
+
+
+<div id="draggable2"> Drag me around</div> <br>
+<div id="draggable1" class="ui-widget-content"><p>Drag me around</p></div> <br>
+<div id="draggable3"> Drag me around</div> <br>
+<div id="draggable4"> Drag me around</div> <br> 
+<div id="draggable" class="ui-widget-content"><p>Drag me around</p></div> <br>
+<div id="draggable5"> Drag me around</div></p>
+</body>
+</html>
