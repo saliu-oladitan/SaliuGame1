@@ -10,4 +10,4 @@ A simple game that uses HTML-JQuery-JQueryUI.
 
 
 --------------Oladitan Saliu-------------------- 
-(Source: https://github.com/saliu-oladitan/)
+(Source: https://github.com/saliu-oladitan/SaliuGame1)
