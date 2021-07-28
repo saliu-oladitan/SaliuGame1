@@ -6,7 +6,8 @@
 
 A simple game that uses HTML-JQuery-JQueryUI.
 
-
+NOTE: If you can't play this game with your phone's screen,
+please open it with a PC.
 
 
 --------------Oladitan Saliu-------------------- 
