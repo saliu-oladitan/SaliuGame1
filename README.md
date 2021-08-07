@@ -9,6 +9,8 @@ A simple game using HTML, jQuery and jQuery UI
 
 A simple game that uses HTML-JQuery-JQueryUI.
 
+Please view with a PC if you are unable to play it
+with your phone.
 
 
 
